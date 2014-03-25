@@ -3,7 +3,7 @@
 /**
  * Contao Open Source CMS
  *
- * @copyright  MEN AT WORK 2014 
+ * @copyright  MEN AT WORK 2014
  * @package    articleSelection
  * @license    GNU/LGPL
  * @filesource
@@ -99,5 +99,3 @@ class ArticleSelection extends Backend
     }
 
 }
-
-?>
